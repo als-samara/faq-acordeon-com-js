@@ -1,0 +1,26 @@
+@media(max-width: 867px){
+    .acordeon{
+        margin-left: 6.5rem;
+    }
+}
+
+@media(max-width: 574px){
+    .acordeon{
+        margin-left: 1rem;
+    }
+
+    .ilustracao{
+        position: initial;
+        padding: 0.6rem;
+    }
+
+    .acordeon .conteudo{
+        padding: 0.6rem;
+    } 
+}
+
+@media(max-width: 477px){
+    .ilustracao {
+        max-width: 11rem;
+    }
+}
